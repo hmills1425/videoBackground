@@ -1,0 +1,12 @@
+/* Must import font (Press Start 2P) at the start of the CSS file */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+p{
+    font-family: 'Press Start 2P', cursive;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    /* font-weight: 500; */
+    font-weight: 700;
+}
